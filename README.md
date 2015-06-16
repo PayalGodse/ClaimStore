@@ -12,6 +12,7 @@ Technologies:
 Web Services implemented using JAXWS
 Database used MYSQL
 For coversion between Java objects and xml used JAXB
+Used xjc for  generating objects from XML schema
 
 How to run:-
 -Publish the WebService (HelloWorldWSPublisher.java):
