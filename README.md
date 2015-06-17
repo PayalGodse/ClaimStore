@@ -24,6 +24,3 @@ Have executed all operations in one test only.
 Modify https://github.com/PayalGodse/ClaimStore/blob/master/JAXWSServer/src/com/mitchell/examples/webservice/HelloWorldImpl.java
 for execution of specific functionality.
 
-Check the console for output! :)
-
-
